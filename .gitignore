@@ -1,0 +1,11 @@
+*.xml
+*.pyc
+bin.lnk
+run.bat
+mongo.bat
+test/*
+data/*
+.idea/*
+tools/windows_64/nmap/*
+tools/common/console.log
+tools/windows_64/paused.conf
